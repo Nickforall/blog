@@ -17,7 +17,7 @@ author = "Nick Vernij"
 sharingicons = true
 
 [params.highlight]
-style = "github"
+style = "railscasts"
 languages = ["rust", "javascript", "x86asm"]
 
 [[params.social]]
