@@ -1,10 +1,10 @@
-baseurl = "https://nickforall.github.io/"
+baseurl = "http://blog.nickforall.nl/"
 languageCode = "en"
 title = "Nick Vernij's Blog"
 theme = "Hucore"
 copyright = "&copy; 2017 <a href=\"https://github.com/mgjohansen/hucore.git\" target=\"_blank\">Powered by Hucore</a> & <a href=\"http://gohugo.io\" target=\"_blank\">Hugo</a> ♥"
 disqusShortname = ""
-googleAnalytics = "trackingcode"
+googleAnalytics = "UA-58431116-3"
 
 [taxonomies]
 tag = "tags"
